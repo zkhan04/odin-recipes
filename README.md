@@ -1,0 +1,2 @@
+# odin-recipes
+This is a project that covers the basics of HTML. I'm creating a website with recipes that utilizes images, hyperlinks, headers, ordered and unordered lists, and other important HTML elements.
